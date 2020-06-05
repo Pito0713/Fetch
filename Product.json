@@ -1,1 +1,23 @@
-[3,4,5]
+[
+ {
+   "id"="Cultivation",
+   "name"="栽培",
+   "img" = "./img/about-3.jpeg",
+   "price" = "123",
+   "content" = "Lorem ipsum dolor sit amet consec",
+ },
+ {
+   "id"="Cactus",
+   "name"="仙人掌",
+   "img" = "./img/about-5.jpeg",
+   "price" = "13",
+   "content" = "Lorem ipsum dolor sit amet consec",
+ },
+ {
+   "id"="Succulents",
+   "name"="多肉",
+   "img" = "./img/about-2.jpeg",
+   "price" = "23",
+   "content" = "Lorem ipsum dolor sit amet consec",
+ }
+]
