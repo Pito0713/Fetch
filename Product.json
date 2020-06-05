@@ -1,7 +1,4 @@
 {
-   "id": "Cultivation",
-   "name": "栽培",
-   "img": "./img/about-3.jpeg",
-   "price": "123",
-   "content": "Lorem ipsum dolor sit amet consec",
+ "origin": "218.35.82.100", 
+ "url": "https://httpbin.org/get"
 }
