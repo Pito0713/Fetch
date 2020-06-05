@@ -1,4 +1,4 @@
-{
+[
  {
    "id" : "Cultivation",
    "name" : "栽培",
@@ -20,4 +20,4 @@
    "price" : "23",
    "content" : "Lorem ipsum dolor sit amet consec",
  }
-}
+]
