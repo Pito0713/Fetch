@@ -6,15 +6,15 @@
   "price": "Lorem ipsum dolor sit amet consec"
   },
   {
-  "id": "Cultivation", 
-  "name": "栽培", 
-  "img": "./img/about-3.jpeg", 
+  "id": "Cactus", 
+  "name": "仙人掌", 
+  "img": "./img/about-5.jpeg", 
   "price": "Lorem ipsum dolor sit amet consec"
   },
   {
-  "id": "Cultivation", 
-  "name": "栽培", 
-  "img": "./img/about-3.jpeg", 
+  "id": "Succulents", 
+  "name": "多肉", 
+  "img": "./img/about-2.jpeg", 
   "price": "Lorem ipsum dolor sit amet consec"
-  },
+  }
 ]  
