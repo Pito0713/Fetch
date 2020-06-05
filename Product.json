@@ -1,8 +1,4 @@
 {
- "oin": "218.35.82.100", 
- "ul": "https://httpbin.org/get"
-},
-{
  "id" : "Cultivation",
  "name" : "栽培",
  "img" : "./img/about-3.jpeg",
