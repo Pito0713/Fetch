@@ -45,7 +45,7 @@
   "id": "Succulents", 
   "name": "多肉", 
   "img": "./img/about-4.jpeg", 
-  "price": "110"
+  "price": "110",
   "content": "Lorem ipsum dolor sit amet consec" 
   }
 ]  
