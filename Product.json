@@ -1,14 +1,51 @@
-{
- "id": "Cultivation", 
- "name": "盆栽", 
- "img": "./img/about-3.jpeg", 
- "price": "200",
- "content": "Lorem ipsum dolor sit amet consec"
-}
-{
- "id": "Cactus", 
- "name": "仙人掌", 
- "img": "./img/about-5.jpeg", 
- "price": "100",
- "content": "Lorem ipsum dolor sit amet consec"
-}
+[
+  {
+  "id": "Cultivation", 
+  "name": "盆栽", 
+  "img": "./img/about-3.jpeg", 
+  "price": "200",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
+  "id": "Cactus", 
+  "name": "仙人掌", 
+  "img": "./img/about-5.jpeg", 
+  "price": "100",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
+  "id": "Cactus", 
+  "name": "仙人掌", 
+  "img": "./img/about-6.jpeg", 
+  "price": "80",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
+  "id": "Succulents", 
+  "name": "多肉", 
+  "img": "./img/about-2.jpeg",
+  "price": "150",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
+  "id": "Succulents", 
+  "name": "多肉", 
+  "img": "./img/about-1.jpeg", 
+  "price": "90",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
+  "id": "Succulents", 
+  "name": "多肉", 
+  "img": "./img/about-2.jpeg", 
+  "price": "120",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
+   "id": "Succulents", 
+   "name": "多肉", 
+   "img": "./img/about-4.jpeg", 
+   "price": "110",
+   "content": "Lorem ipsum dolor sit amet consec" 
+   }
+ ]  
