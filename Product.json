@@ -1,16 +1,16 @@
 {
-"id": "Cultivation", 
-"name": "盆栽", 
-"img": "./img/about-3.jpeg", 
-"price": "200",
-"content": "Lorem ipsum dolor sit amet consec"
+ "id": "Cultivation", 
+ "name": "盆栽", 
+ "img": "./img/about-3.jpeg", 
+ "price": "200",
+ "content": "Lorem ipsum dolor sit amet consec"
 },
 {
-"id": "Cactus", 
-"name": "仙人掌", 
-"img": "./img/about-5.jpeg", 
-"price": "100",
-"content": "Lorem ipsum dolor sit amet consec"
+ "id": "Cactus", 
+ "name": "仙人掌", 
+ "img": "./img/about-5.jpeg", 
+ "price": "100",
+ "content": "Lorem ipsum dolor sit amet consec"
 }
 
   
