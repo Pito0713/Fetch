@@ -20,11 +20,11 @@
   "img": "./img/about-1.jpeg"
   },
   {
-  "id": "Succulents", 
+  "id": "Succulents",
   "img": "./img/about-2.jpeg"
   },
   {
-   "id": "Succulents"
+   "id": "Succulents",
    "img": "./img/about-4.jpeg"
-   }
+  }
  ]  
