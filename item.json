@@ -1,0 +1,30 @@
+[
+  {
+  "id": "Cultivation",
+  "img": "./img/about-3.jpeg"
+  },
+  {
+  "id": "Cactus", 
+  "img": "./img/about-5.jpeg"
+  },
+  {
+  "id": "Cactus",
+  "img": "./img/about-6.jpeg"
+  },
+  {
+  "id": "Succulents",
+  "img": "./img/about-2.jpeg"
+  },
+  {
+  "id": "Succulents",
+  "img": "./img/about-1.jpeg"
+  },
+  {
+  "id": "Succulents", 
+  "img": "./img/about-2.jpeg"
+  },
+  {
+   "id": "Succulents"
+   "img": "./img/about-4.jpeg"
+   }
+ ]  
