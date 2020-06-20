@@ -1,30 +1,34 @@
 [
   {
-  "id": "Cultivation",
-  "img": "./img/about-3.jpeg"
+  "id": "desk",
+  "img": "./img/item-desk-1.jpeg"
   },
   {
-  "id": "Cactus", 
-  "img": "./img/about-5.jpeg"
+  "id": "desk", 
+  "img": "./img/item-desk-2.jpeg"
   },
   {
-  "id": "Cactus",
-  "img": "./img/about-6.jpeg"
+  "id": "shelf",
+  "img": "./img/item-shelf-1.jpeg"
   },
   {
-  "id": "Succulents",
-  "img": "./img/about-2.jpeg"
+  "id": "shelf",
+  "img": "./img/item-shelf-2.jpeg"
   },
   {
-  "id": "Succulents",
-  "img": "./img/about-1.jpeg"
+  "id": "indoor",
+  "img": "./img/item-indoor-1.jpeg"
   },
   {
-  "id": "Succulents",
-  "img": "./img/about-2.jpeg"
+  "id": "indoor",
+  "img": "./img/item-indoor-2.jpeg"
   },
   {
-   "id": "Succulents",
-   "img": "./img/about-4.jpeg"
+   "id": "sill",
+   "img": "./img/item-sill-1.jpeg"
+  },
+  {
+   "id": "sill",
+   "img": "./img/item-sill-2.jpeg"
   }
- ]  
+]  
