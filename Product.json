@@ -13,6 +13,18 @@
   "price": "100",
   "content": "Lorem ipsum dolor sit amet consec"
   },
+  "id": "Cactus", 
+  "name": "仙人掌", 
+  "img": "./img/Cactus-3.jpeg", 
+  "price": "20",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  "id": "Cactus", 
+  "name": "仙人掌", 
+  "img": "./img/Cactus-4.jpeg", 
+  "price": "140",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
   {
   "id": "Succulents", 
   "name": "多肉", 
@@ -35,6 +47,13 @@
   "content": "Lorem ipsum dolor sit amet consec"
   },
   {
+  "id": "Succulents", 
+  "name": "多肉", 
+  "img": "./img/Succulents-4.jpeg",
+  "price": "40",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
   "id": "Cultivation", 
   "name": "盆栽", 
   "img": "./img/Cultivation-1.jpeg", 
@@ -42,10 +61,24 @@
   "content": "Lorem ipsum dolor sit amet consec"
   },
   {
+  "id": "Cultivation", 
+  "name": "盆栽", 
+  "img": "./img/Cultivation-2.jpeg", 
+  "price": "150",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
+  "id": "Cultivation", 
+  "name": "盆栽", 
+  "img": "./img/Cultivation-3.jpeg", 
+  "price": "190",
+  "content": "Lorem ipsum dolor sit amet consec"
+  },
+  {
    "id": "Cultivation", 
    "name": "盆栽", 
-   "img": "./img/Cultivation-2.jpeg", 
-   "price": "110",
+   "img": "./img/Cultivation-4.jpeg", 
+   "price": "50",
    "content": "Lorem ipsum dolor sit amet consec" 
    }
  ]  
