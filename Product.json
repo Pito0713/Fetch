@@ -13,12 +13,14 @@
   "price": "100",
   "content": "Lorem ipsum dolor sit amet consec"
   },
+  {
   "id": "Cactus", 
   "name": "仙人掌", 
   "img": "./img/Cactus-3.jpeg", 
   "price": "20",
   "content": "Lorem ipsum dolor sit amet consec"
   },
+  {
   "id": "Cactus", 
   "name": "仙人掌", 
   "img": "./img/Cactus-4.jpeg", 
