@@ -5,7 +5,7 @@
   "img": "./img/Cactus-1.jpeg",
   "price": "200",
   "content": "仙人掌各三盆</br>，精選三款健壯且色澤型態各異、適合組盆在一起的品種。",
-  "no": "1"
+  "no": "0"
   },
   {
   "id": "Cactus",
@@ -13,7 +13,7 @@
   "img": "./img/Cactus-2.jpeg",
   "price": "20",
   "content": "仙人掌新手入門必選</br>，可戶外，可室內，辦公室",
-  "no": "2"
+  "no": "1"
   },
   {
   "id": "Cactus",
@@ -21,7 +21,7 @@
   "img": "./img/Cactus-3.jpeg",
   "price": "100",
   "content": "幼苗像張開的荷花非常肥厚可愛，</br>若給予充分的生長空間會長得很巨大。",
-  "no": "3"
+  "no": "2"
   },
   {
   "id": "Cactus",
@@ -29,7 +29,7 @@
   "img": "./img/Cactus-4.jpeg",
   "price": "140",
   "content": "仙人掌中最具代表的品種，</br>金黃色且堅硬的刺，給人十分高貴的感覺",
-  "no": "4"
+  "no": "3"
   },
   {
   "id": "Succulents",
@@ -37,7 +37,7 @@
   "img": "./img/Succulents-1.jpeg",
   "price": "80",
   "content": "陽光充足的環境下全年都帶綠，</br>葉片硬實密集，植株強健，</br>集各種受歡迎的特點於一身的優秀品種。",
-  "no": "5"
+  "no": "4"
   },
   {
   "id": "Succulents",
@@ -45,7 +45,7 @@
   "img": "./img/Succulents-2.jpeg",
   "price": "150",
   "content": "植株強健好照顧，</br>易長側芽群生，</br>很適合作為組盆的素材。",
-  "no": "6"
+  "no": "5"
   },
   {
   "id": "Succulents",
@@ -53,7 +53,7 @@
   "img": "./img/Succulents-3.jpeg",
   "price": "90",
   "content": "雖然是容易抽長的細軟莖，</br>陽光充足的環境下葉片會極為密集，</br>厚葉看起來立體又有層次。",
-  "no": "7"
+  "no": "6"
   },
   {
   "id": "Succulents",
@@ -61,7 +61,7 @@
   "img": "./img/Succulents-4.jpeg",
   "price": "40",
   "content": "葉片容易因陽光呈現肥厚捲曲和不規則的變形，</br>植株強健可露養。",
-  "no": "8"
+  "no": "7"
   },
   {
   "id": "Cultivation",
@@ -69,7 +69,7 @@
   "img": "./img/Cultivation-1.jpeg",
   "price": "320",
   "content": "多肉+仙人掌 5盆</br>，精選色澤型態各異、適合組盆在一起的品種。",
-  "no": "9"
+  "no": "8"
   },
   {
   "id": "Cultivation",
@@ -77,7 +77,7 @@
   "img": "./img/Cultivation-2.jpeg",
   "price": "150",
   "content": "混合粗細介質與長效肥料</br>，排水良好，透氣性佳，</br>不須添加其他材料即可直接使用。",
-  "no": "10"
+  "no": "9"
   },
   {
   "id": "Cultivation",
@@ -85,7 +85,7 @@
   "img": "./img/Cultivation-3.jpeg",
   "price": "190",
   "content": "超級百搭的簡約風格水泥花盆</br>，無論文青、田園風路線都不顯得突兀。",
-  "no": "11"
+  "no": "10"
   },
   {
    "id": "Cultivation",
@@ -93,6 +93,6 @@
    "img": "./img/Cultivation-4.jpeg",
    "price": "50",
    "content": "假的！</br> 養不死 超有成就感",
-   "no": "12"
+   "no": "11"
    }
  ]  
